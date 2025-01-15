@@ -7,7 +7,7 @@
 
 <br>
 
-![Yohann GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanngusso&show_icons=true&theme=dracula&include_all_commits=true)
+
 
 <div>
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 </div>
 
-
+##
 ### Linguagens & Tecnologias 
 
 <img 
@@ -117,4 +117,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-         
+
+<br><br><br>
+
+<p>
+  <img 
+    align="left" 
+    title="GitHub Stats"
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=yohanngusso&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+</p>
