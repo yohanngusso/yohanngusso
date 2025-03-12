@@ -53,14 +53,6 @@
 />
 <img 
     align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
