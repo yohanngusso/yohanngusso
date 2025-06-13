@@ -76,14 +76,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
-    alt="bitbucket"
-    title="bitbucket" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+  align="left" 
+  alt="Jira"
+  title="Jira" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
 />
-
 <img 
     align="left" 
     alt="Spring"
