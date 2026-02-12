@@ -3,7 +3,7 @@
 - 🎓 Estudante de Eng. Software
 - 💻 Apaixonado por Software & Hardware
 - 💡 Desenvolvendo projetos com Tecnologia
-- 🤖 Entusiasta em Eletrônica Digital
+- 🤖 Entusiasta em Eletrônica 
 
 <br>
 
