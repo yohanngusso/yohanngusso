@@ -37,14 +37,6 @@
 />
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="40px" 
@@ -53,11 +45,19 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Python"
+    title="Python" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
 <img 
     align="left" 
